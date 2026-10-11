@@ -2,14 +2,10 @@ Segundo commit
 Tercer commit
 Herramientas OSINT: Maltego
 Función para crear variables de producto
-<<<<<<< HEAD
 Estoy dentro de la rama feature con una funcion
-
 función dentro de master 
-=======
 2da función
 2da funcion real
->>>>>>> feature
-
 1er commit del tercer ejercicio en master
 2do commit de tercer ej...
+1ra funcion en rama feature del ejercicio 4
