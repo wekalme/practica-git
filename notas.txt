@@ -10,3 +10,5 @@ función dentro de master
 2da función
 2da funcion real
 >>>>>>> feature
+
+1er commit del tercer ejercicio en master
