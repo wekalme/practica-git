@@ -3,3 +3,4 @@ Tercer commit
 Herramientas OSINT: Maltego
 Función para crear variables de producto
 2da función
+2da funcion real
