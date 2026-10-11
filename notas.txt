@@ -12,3 +12,4 @@ función dentro de master
 >>>>>>> feature
 
 1er commit del tercer ejercicio en master
+2do commit de tercer ej...
