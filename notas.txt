@@ -11,4 +11,5 @@ función dentro de master
 1ra funcion en rama feature del ejercicio 4
 
 2da funcion en rama feature ej. 4
- 
+2do error en archivo
+
