@@ -9,3 +9,8 @@ función dentro de master
 1er commit del tercer ejercicio en master
 2do commit de tercer ej...
 1ra funcion en rama feature del ejercicio 4
+<<<<<<< HEAD
+=======
+ 2da funcion en rama feature ej. 4
+ 
+>>>>>>> 040f4ad (2do commit en rama feature ej. 4)
