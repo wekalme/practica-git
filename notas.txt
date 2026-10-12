@@ -12,9 +12,6 @@ función dentro de master
 
 2da funcion en rama feature ej. 4
  
-<<<<<<< HEAD
 Herramienta: theHarvester CE
-=======
 Herramienta: theHarvester
 1er commit en remoto
->>>>>>> origin
